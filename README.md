@@ -35,18 +35,18 @@ To run the website locally, follow these steps:
 
 3. Explore the different sections, navigation links, and dynamic animations.
 
-##Customization
-#Styling (styles.css)
+## Customization
+# Styling (styles.css)
 Fonts: The project uses Familjen Grotesk and Poppins fonts. You can customize the fonts by updating the @import statement.
 Colors: Customize the color scheme by modifying the color values in the stylesheet.
 Media Queries: Adjust styles for different screen sizes using the provided media queries.
 
-#JavaScript (script.js)
+# JavaScript (script.js)
 Mobile Menu: Customize the mobile menu behavior, animations, or add additional functionality.
 Scroll Events: Modify scroll event listeners or add more dynamic effects based on user scroll actions.
 Count-Up Animation: Adjust the count-up animation parameters, such as speed and target values.
 
-##Live View
+## Live View
 
 
    
