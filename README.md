@@ -6,6 +6,9 @@ Welcome to the Space-X website! This project is a simple website for Space-X, bu
 
 The Space-X website aims to showcase information about Space-X missions and updates in a clean and visually appealing manner. It includes responsive design elements, navigation menus, and dynamic animations to enhance user engagement.
 
+## Live View
+You can check the website [here](https://tanbiralam.github.io/space-x-website-clone/)
+
 ## Features
 
 - **Responsive Design**: The website is designed to be responsive, ensuring a seamless experience on both desktop and mobile devices.
@@ -36,17 +39,17 @@ To run the website locally, follow these steps:
 3. Explore the different sections, navigation links, and dynamic animations.
 
 ## Customization
-# Styling (styles.css)
+## Styling (styles.css)
 Fonts: The project uses Familjen Grotesk and Poppins fonts. You can customize the fonts by updating the @import statement.
 Colors: Customize the color scheme by modifying the color values in the stylesheet.
 Media Queries: Adjust styles for different screen sizes using the provided media queries.
 
-# JavaScript (script.js)
+## JavaScript (script.js)
 Mobile Menu: Customize the mobile menu behavior, animations, or add additional functionality.
 Scroll Events: Modify scroll event listeners or add more dynamic effects based on user scroll actions.
 Count-Up Animation: Adjust the count-up animation parameters, such as speed and target values.
 
-## Live View
+
 
 
    
